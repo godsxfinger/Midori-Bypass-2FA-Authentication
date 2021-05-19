@@ -26,15 +26,19 @@ Language from English to French with the Lea voice.
 Install the Discord Bot :
 
 Take your API Password from you config.js file in your api folder we are gonna use it
+
 cd ../bots/discord
+
 Modify the config.js file
 • Add API Url & Api Password
 • Your discord bot token
 • Your actual IP to run the web server
 • Change the secret password
+
 Create two discord roles, one "Admin" with Administrator permissions, and the other
 one "Bot User" with any permission.
 Add the bot to the discord server
+
 Initialize the discord bot
 npm i
 You can now start the discord bot
