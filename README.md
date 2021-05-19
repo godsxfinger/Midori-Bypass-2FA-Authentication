@@ -46,6 +46,7 @@ node bot.js
 You can get all the informations needed on discord doing !help
 
 *Disclaimer*
+
 I TAKE NO RESPONSIBILITY FOR THE USE OF THIS.
 Do not use it illegally.
 Only use it with your phone numbers or people who accept to test this.
